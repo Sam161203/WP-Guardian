@@ -8,7 +8,8 @@ WP Guardian is a PyQt5-based GUI tool for auditing the security of WordPress sit
 
 It features out-of-band (OOB) vulnerability testing by correlating actions with callbacks received by an **Interactsh** instance and generates a simple PDF Proof-of-Concept report with a risk rating.
 
-![WP Guardian Screenshot](screenshot.png)
+<img width="1901" height="1076" alt="image" src="https://github.com/user-attachments/assets/f99b0432-c9f0-464e-aab3-6dfa72214830" />
+
 
 ---
 
